@@ -2,7 +2,7 @@
 
 ## Login
 
-![alt text](/data/image.png)
+![alt text](../data/image.png)
 
 Ở đây sẽ giải mã đầu vào sau đó kiểm tra 'username' và 'isAdmin'. Để có thể đọc được flag thì việc chúng ta là tìm đầu vào sao cho khi giải mã ra được chuỗi
 
@@ -10,7 +10,7 @@
 
 ## Register
 
-![alt text](/data/image-1.png)
+![alt text](../data/image-1.png)
 
 Ở đây dễ dàng nhìn thấy sau khi nhập đầu vào thì sẽ được chuyển thành chuỗi 
 
