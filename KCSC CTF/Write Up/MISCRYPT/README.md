@@ -66,5 +66,6 @@ for x in range(width-3,-1,-1):
         pixels[x, y], pixels[x, y+1], pixels[x, y+2] = [tuple([int(i) for i in j]) for j in M]
 img.save('qr_flag.png')  
 ```
+Vì tổng thể của bức ảnh này rất lớn nên 1 điểm ảnh bị lỗi cũng không ảnh hướng đến bố việc quét QR
 Sau khi quét QR chúng ta sẽ ra được flag 
 
