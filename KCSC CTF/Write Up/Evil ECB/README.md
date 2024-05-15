@@ -2,7 +2,7 @@
 
 ## Login
 
-![alt text](image.png)
+![alt text](/data/image.png)
 
 Ở đây sẽ giải mã đầu vào sau đó kiểm tra 'username' và 'isAdmin'. Để có thể đọc được flag thì việc chúng ta là tìm đầu vào sao cho khi giải mã ra được chuỗi
 
@@ -10,7 +10,7 @@
 
 ## Register
 
-![alt text](image-1.png)
+![alt text](/data/image-1.png)
 
 Ở đây dễ dàng nhìn thấy sau khi nhập đầu vào thì sẽ được chuyển thành chuỗi 
 
@@ -21,7 +21,7 @@ Ví dụ khi đăng kí với username = "P4nd@" thì sẽ nhận được chu�
 
 Sau đó thì lấy chuỗi nãy mã hóa ECB rồi chuyển qua hex rồi gửi lại cho người dùng
 
-![alt text](image-2.png)
+![alt text](/data/image-2.png)
 
 Do ở đây đầu vào được nhập tự do chính vì thế ta có thể nghĩ đến việc nhập 
 
@@ -64,11 +64,11 @@ data = b"xx"+ pad(data,16)
 
 Tuy nhiên khi chạy thử lại xảy ra lỗi 
 
-![alt text](image-4.png)
+![alt text](/data/image-4.png)
 
 Mò ngược lại về code ta có thể thấy lỗi là do quá trình unpad, nên ta thử đọc ngược lại xem có quá trình nào nữa không
 
-![alt text](image-5.png)
+![alt text](/data/image-5.png)
 
 Ở đây khi nhận dữ liệu chúng ta nhập server sẽ decode() rồi strip() chính vì thế sẽ làm mất \n... của chúng ta. Để qua được strip() này ta chỉ cần thêm 1 bytes kí tự vào cuối chuỗi mục tiêu là được
 
@@ -76,5 +76,5 @@ Mò ngược lại về code ta có thể thấy lỗi là do quá trình unpad,
 data = b'{"username": "admin", "isAdmin": true}'
 data = b"xx"+ pad(data,16) +b"x"
 ```
-![alt text](image-6.png)
+![alt text](/data/image-6.png)
 
