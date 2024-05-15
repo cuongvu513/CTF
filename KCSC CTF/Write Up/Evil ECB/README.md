@@ -25,7 +25,7 @@ Sau đó thì lấy chuỗi nãy mã hóa ECB rồi chuyển qua hex rồi gửi
 
 Do ở đây đầu vào được nhập tự do chính vì thế ta có thể nghĩ đến việc nhập 
 
-    username = {"username": "admin", "isAdmin": true}'
+    username = {"username": "admin", "isAdmin": true}
 
 Để làm được việc đó ta cần đếm padding để có thể không bị lỗi trong quá trình mã hóa.
 
