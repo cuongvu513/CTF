@@ -1,3 +1,3 @@
 # Ở đây có writeup của P4nd@ 
 
-![]([https://media.giphy.com/media/HDR31jsQUPqQo/giphy.gif](https://www.deviantart.com/feast4dabeast/art/Cyber-Panda-4-939540440))
+![](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/9ca8e651-4c2f-4997-b1b5-e2d4ad803853/dfjdm1k-5f634357-f31f-448f-b693-2dd6c80fb694.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzljYThlNjUxLTRjMmYtNDk5Ny1iMWI1LWUyZDRhZDgwMzg1M1wvZGZqZG0xay01ZjYzNDM1Ny1mMzFmLTQ0OGYtYjY5My0yZGQ2YzgwZmI2OTQucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.BZXNIVakG5akZ5DOhW_yWEH3gTgLR4wJYVwLft07iXg)
