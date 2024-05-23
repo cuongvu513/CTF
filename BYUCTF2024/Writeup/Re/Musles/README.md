@@ -85,7 +85,7 @@ Sau khi decompile ta sẽ đọc asm để tìm xem shell này sẽ làm gì
 
 ![alt text](<../image/Screenshot 2024-05-22 234242.png>)
 
-Ở đây chương trình sẽ cho nhập từ ngoài vào sau đó lưu vào [rsp] sau đó lấy [rsp]^rcx và so sánh với rax nếu đúng thì tiếp tục không thì sẽ nhảy.
+Ở đây chương trình sẽ cho nhập từ ngoài vào sau đó lưu vào rsp sau đó lấy rsp^rcx và so sánh với rax nếu đúng thì tiếp tục không thì sẽ nhảy.
 Tiếp tục chương trình sẽ lặp lại như trên. Từ đây ra sẽ viết script để tìm ra nội dung là gì
 
 ```python
