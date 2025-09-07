@@ -4,7 +4,7 @@
 - **Challenge:** Flag Command
 - **CTF Event:** HackTheBox Challenges
 - **Category:** Web 
-- **Difficulty:** Easy 
+- **Difficulty:** Very Easy 
  
 
 ---
