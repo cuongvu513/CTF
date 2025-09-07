@@ -1,6 +1,6 @@
 ![alt text](../image/bai1.png)
 
-Ở bài này đơn giải là RSA với n là một số nguyên tố 
+Ở bài này đơn giản là RSA với n là một số nguyên tố 
 
 ```python
 from Crypto.Util.number import *
