@@ -2,17 +2,17 @@
 
 ## 📌 Thông tin chung
 - **Challenge:** [Tên challenge]  
-- **CTF Event:** [Tên cuộc thi]  
-- **Category:** [Web / Pwn / Crypto / Forensics / Misc]  
+- **CTF Event:** HackTheBox Challenges  
+- **Category:** Web 
 - **Difficulty:** [Easy / Medium / Hard]  
 - **Points:** [Số điểm]  
 
 ---
 
 ## 📜 Mô tả đề bài
-> [Copy hoặc tóm tắt nội dung đề]  
-- File/URL cung cấp: [link hoặc tên file]  
-- Hình minh họa (nếu có):  
+> [Copy hoặc tóm tắt nội dung đề]   
+- File/URL cung cấp: ![Thử thách](https://app.hackthebox.com/challenges/NeoVault)
+- Thông tin thử thách :
 
 
 ---
